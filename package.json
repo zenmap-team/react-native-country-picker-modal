@@ -44,6 +44,7 @@
     "url": "https://github.com/xcarpentier/react-native-country-picker-modal/issues"
   },
   "homepage": "http://xcarpentier.github.io/react-native-country-picker-modal",
+  "private": "true",
   "dependencies": {
     "@callstack/react-theme-provider": "3.0.3",
     "fuse.js": "3.4.5",
