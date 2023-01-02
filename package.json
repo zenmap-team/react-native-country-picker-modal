@@ -29,7 +29,7 @@
     "prepublishOnly": "yarn verify && yarn config:npm",
     "postpublish": "yarn config:dev",
     "deploy": "gh-pages -d web-build",
-    "postinstall": "yarn build",
+    "postinstall": "yarn install && yarn build",
     "predeploy": "yarn verify && expo build:web && mkdir web-build/countries && cp ./data/countries.json web-build/countries/index.json"
   },
   "keywords": [
