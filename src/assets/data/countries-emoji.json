@@ -2676,6 +2676,33 @@
       "kor": "온두라스"
     }
   },
+  "HK": {
+    "currency": ["HKD"],
+    "callingCode": ["852"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "flag-hk",
+    "name": {
+      "common": "Hong Kong (China)",
+      "ces": "Hongkong",
+      "deu": "Hongkong",
+      "fra": "Hong Kong",
+      "hrv": "Hong Kong",
+      "ita": "Hong Kong",
+      "jpn": "香港",
+      "nld": "Hongkong",
+      "por": "Hong Kong",
+      "rus": "Гонконг",
+      "slk": "Hongkong",
+      "spa": "Hong Kong",
+      "fin": "Hongkong",
+      "est": "Hongkong",
+      "pol": "Hongkong",
+      "urd": "ہانگ کانگ",
+      "kor": "홍콩",
+      "zho": "中国香港"
+    }
+  },
   "HU": {
     "currency": ["HUF"],
     "callingCode": ["36"],
@@ -3483,6 +3510,33 @@
       "pol": "Luksemburg",
       "urd": "لکسمبرگ",
       "kor": "룩셈부르크"
+    }
+  },
+  "MO": {
+    "currency": ["MOP"],
+    "callingCode": ["853"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "flag-mo",
+    "name": {
+      "common": "Macau (China)",
+      "ces": "Macao",
+      "deu": "Macao",
+      "fra": "Macao",
+      "hrv": "Makao",
+      "ita": "Macao",
+      "jpn": "マカオ",
+      "nld": "Macao",
+      "por": "Macau",
+      "rus": "Макао",
+      "slk": "Macao",
+      "spa": "Macao",
+      "fin": "Macao",
+      "est": "Macau",
+      "pol": "Makau",
+      "urd": "مکاؤ",
+      "kor": "마카오",
+      "zho": "中国澳门"
     }
   },
   "MK": {
@@ -5860,6 +5914,33 @@
       "pol": "Wyspy Świętego Tomasza i Książęca",
       "urd": "ساؤ ٹومے و پرنسپے",
       "kor": "상투메 프린시페"
+    }
+  },
+  "TW": {
+    "currency": ["TWD"],
+    "callingCode": ["886"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "flag-tw",
+    "name": {
+      "common": "Taiwan (China)",
+      "ces": "Tchaj-wan",
+      "deu": "Taiwan",
+      "fra": "Taïwan",
+      "hrv": "Tajvan",
+      "ita": "Taiwan",
+      "jpn": "台湾",
+      "nld": "Taiwan",
+      "por": "Ilha Formosa",
+      "rus": "Тайвань",
+      "slk": "Taiwan",
+      "spa": "Taiwán",
+      "fin": "Taiwan",
+      "est": "Taiwan",
+      "pol": "Tajwan",
+      "urd": "تائیوان",
+      "kor": "대만",
+      "zho": "中国台湾"
     }
   },
   "TJ": {
